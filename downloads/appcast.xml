@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Three</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 25 Sep 2026 10:03:46 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://Lucalangella.github.io/three-website/downloads/Three.md</sparkle:releaseNotesLink>
+            <enclosure url="https://Lucalangella.github.io/three-website/downloads/Three.dmg" length="1198263" type="application/octet-stream" sparkle:edSignature="nuROaS7LVZrhBRJs+Jjq4s+uvq+WTyGpp+HNBYyhUU1S4J3CY6wJug/m0golC0m4D5fqTz2o04YIPIa+wlJ2Cg=="/>
+        </item>
+    </channel>
+</rss>
